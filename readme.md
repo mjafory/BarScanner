@@ -26,11 +26,6 @@ This project features a mobile-friendly login page that incorporates a barcode s
 4. **Modal Window**
    - A modal window is implemented for the barcode scanner, providing a clear and focused scanning area.
 
-## How to Use
-1. Enter your username or barcode in the designated input field.
-2. Input your passcode.
-3. Optionally, click on the barcode icon to use the built-in scanner.
-4. Click the "Log In" button to authenticate.
 
 ## Additional Notes
 - The project uses SVG graphics to create an aesthetically pleasing background with gradient transitions.

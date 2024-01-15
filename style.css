@@ -68,7 +68,7 @@ svg {
 #reader {
     display: flex;
     justify-content: center;
-    margin: -10vh auto 0; /
+    margin: -10vh auto 0;
 	width: 50vh;
 }
 
